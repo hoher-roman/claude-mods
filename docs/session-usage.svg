@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="64" viewBox="0 0 900 64" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="14">
+  <title>session-usage band: CTX 42%, CACHE 96% with 42:10 left, 5H 37% resetting in 2h 05m, 7D 12% resetting Thursday 09:00</title>
+  <rect width="900" height="64" rx="8" fill="#262624"/>
+  <g fill="none" stroke="#5a5a56" stroke-width="1">
+    <rect x="12.5" y="14.5" width="212" height="35" rx="7"/>
+    <rect x="232.5" y="14.5" width="212" height="35" rx="7"/>
+    <rect x="452.5" y="14.5" width="212" height="35" rx="7"/>
+    <rect x="672.5" y="14.5" width="215" height="35" rx="7"/>
+  </g>
+  <g dominant-baseline="middle" text-anchor="middle">
+    <text x="118.5" y="32.5"><tspan fill="#8f8d86" font-weight="bold">CTX</tspan>  <tspan fill="#5fb86f"> 42%</tspan>  <tspan fill="#8f8d86">84k/200k</tspan></text>
+    <text x="338.5" y="32.5"><tspan fill="#8f8d86" font-weight="bold">CACHE</tspan>  <tspan fill="#5fb86f"> 96%</tspan>  <tspan fill="#e8e6dc">⏳ 42:10</tspan></text>
+    <text x="558.5" y="32.5"><tspan fill="#8f8d86" font-weight="bold">5H</tspan>  <tspan fill="#5fb86f"> 37%</tspan>  <tspan fill="#8f8d86">↺ 2h 05m</tspan></text>
+    <text x="780" y="32.5"><tspan fill="#8f8d86" font-weight="bold">7D</tspan>  <tspan fill="#5fb86f"> 12%</tspan>  <tspan fill="#8f8d86">↺ Th 09:00</tspan></text>
+  </g>
+</svg>

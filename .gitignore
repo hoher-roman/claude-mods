@@ -1,0 +1,5 @@
+# IDE
+.idea/
+
+# Types Claude Code generates when it loads a mod
+**/.claude-plugin/types/

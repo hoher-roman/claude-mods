@@ -1,0 +1,12 @@
+{
+  "name": "claude-mods",
+  "owner": { "name": "hoher-roman" },
+  "description": "Mods that change the Claude Code interface",
+  "plugins": [
+    {
+      "name": "session-usage",
+      "source": "./mods/session-usage",
+      "description": "Band above the prompt with context fill, prompt cache hit and countdown, and the 5h/7d rate-limit windows"
+    }
+  ]
+}

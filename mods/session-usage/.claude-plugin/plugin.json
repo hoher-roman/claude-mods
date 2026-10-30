@@ -1,0 +1,8 @@
+{
+  "name": "session-usage",
+  "version": "0.2.0",
+  "description": "Band above the prompt with context fill, prompt cache hit and countdown, and the 5h/7d rate-limit windows",
+  "author": { "name": "hoher-roman" },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}
